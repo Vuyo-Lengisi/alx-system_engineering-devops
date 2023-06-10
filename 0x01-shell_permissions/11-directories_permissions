@@ -1,0 +1,2 @@
+#!/bin/basch
+chmod -R ugo+X
