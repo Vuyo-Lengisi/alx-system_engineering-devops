@@ -1,4 +1,4 @@
-#!/usr/bin/ env bash
+#!/usr/bin/env bash
 #start apache2 inside the docker
 apt-get install apache2 -y
 echo "Hello Holberton" > /var/www/html/index.html
